@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(zdjecia/ta.jpeg);
+    background-image: url(zdjecia/gra.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -140,7 +140,7 @@ nav ul li a:hover::after{
 
 }
 .tab-contents ul li span{
-    color: #b54769;
+    color: #18a151;
     font-size: 14px;
 }
 
@@ -225,7 +225,7 @@ nav ul li a:hover::after{
 .layer{
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), #ff004f);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), #1aa353);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -364,7 +364,7 @@ nav .fas{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(zdjecia/logo.png);
+        background-image: url(zdjecia/gra.jpg);
     }
     .header-text{
         margin-top: 100%;
